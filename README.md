@@ -1,2 +1,2 @@
-Test Otomasyonu projesidir
+Test Otomasyonu projesidir.
 Selenium kullanılarak yapılmıştır
